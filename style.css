@@ -1,0 +1,61 @@
+body{
+    background-image: url("ashesicamppic.jpg");
+    background-size:cover;
+    background-position: center;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+     
+}
+
+section{
+    background-color:#91c8ff;
+    width:30%;
+    margin:40px auto;
+    border-radius: 4px;
+    border:5px solid #91c8ff;
+
+}
+
+article div{
+    padding-bottom:20px;
+
+}
+article label{
+    margin-left: 40px;
+    color: black;
+    font-family: inherit;
+}
+article input{
+    width:75%;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    margin-left: 40px; 
+    background: #91c8ff;
+    border:none;
+    font-size:medium;
+    border-color: #2ecc71;
+    border-bottom: 1px solid #2ecc71;
+}
+article h1{
+    padding-top: 5px;
+    font-size: 25px;
+    text-align: center;
+}
+article .button{
+    background-color:#333;
+    font-family:inherit;
+    border:2px solid #8e44ad;
+    color:#fff;
+    display:box;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight:60;
+    font-size:15px;
+    
+
+}
+.button:hover{
+    background:red;
+    color:#fff;
+}
